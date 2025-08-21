@@ -1,1 +1,2 @@
-Hello for conflict GitHub
+Hello for local GitHub
+ 
