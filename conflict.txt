@@ -2,3 +2,5 @@
 Hello for local GitHub 
 New line
 
+First branch conflict
+
