@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello for local GitHub
  
+=======
+Hello for conflict GitHub! 
+New line
+>>>>>>> 55a808f135770bc59e08c44c1bb4b0cf9329a05d
