@@ -2,3 +2,5 @@
 Hello for local GitHub 
 New line
 
+Main conflict
+
