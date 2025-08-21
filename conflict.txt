@@ -6,3 +6,5 @@ First branch conflict
 Main conflict
 
 New main conflict
+
+hello local main
