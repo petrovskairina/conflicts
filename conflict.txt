@@ -5,3 +5,4 @@ New line
 First branch conflict
 Main conflict
 
+New main conflict
