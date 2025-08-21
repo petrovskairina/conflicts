@@ -5,6 +5,11 @@ New line
 First branch conflict
 Main conflict
 
+
 New branch conflict
 
 Hello from local first
+New main conflict
+
+hello local main
+
